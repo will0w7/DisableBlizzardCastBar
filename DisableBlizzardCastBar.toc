@@ -1,4 +1,4 @@
-## Interface: 120100, 120007, 120005, 50504, 40402, 38000, 20506, 11509, 11508
+## Interface: 11508, 11509, 16001, 20505, 20506, 30405, 38002, 40402, 50503, 50504, 120100, 120105, 120007
 ## Version: @project-version@
 ## Title: Disable Blizzard Cast Bar
 ## Author: Will0w7
